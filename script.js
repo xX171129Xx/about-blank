@@ -1,2 +1,2 @@
 var myWindow = window.open("", "");
-myWindow.document.write("<meta name='viewport' content='width=device-width' /><link href='https://replitcss.tehost.ml/replit.min.css' rel='stylesheet' type='text/css' /><iframe width='100%' height='100%' src='content.xhtml' frameborder='0' allowfullscreen></iframe>");
+myWindow.document.write("<meta name='viewport' content='width=device-width' /><link href='https://replitcss.tehost.ml/replit.min.css' rel='stylesheet' type='text/css' /><iframe src='content.xhtml' frameborder='0' allowfullscreen></iframe>");
